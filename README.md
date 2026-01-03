@@ -1,4 +1,4 @@
-## Hi, I'm JA Flores 👋
+## Hi, I'm Javier 👋
 
 Engineering student interested in programming, electronics, and 3D design.
 I enjoy learning by building projects and experimenting with ideas.
