@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I'm JA Flores 👋
 
-<!--
-**jafloresal/jafloresal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student interested in programming, electronics, and 3D design.
+I enjoy learning by building projects and experimenting with ideas.
 
-Here are some ideas to get you started:
+### 🛠️ What I’m doing
+- Learning programming fundamentals with Python
+- Exploring electronics concepts step by step
+- Designing 3D models using Fusion 360
+- Learning to design functional 3D-printed prosthetics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Currently learning
+- Python basics and problem solving
+- Fundamental electronics and circuits
+- CAD design for functional and mechanical parts
+- Prosthetic design and basic biomechanics concepts
+
+### ⚙️ Tools
+- Python
+- Fusion 360
+- GitHub (learning how to use it)
+
+### 🎯 Interests
+- Electronics and engineering
+- 3D modeling and mechanical design
+- Functional prosthetics and assistive devices
+- Creating practical, real-world solutions
+
+---
+📌 This GitHub is used to document my learning process and engineering projects.
